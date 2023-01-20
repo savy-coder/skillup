@@ -9,7 +9,7 @@ const Navbar = () => {
  const Menu = () => (
   <>
   <p><a href="#home">Home</a></p>
-  <p><a href="#wskillup">What is Skillup?</a></p>
+  <p><a href="#whatsavyskillup">What is Skillup?</a></p>
   <p><a href="#possibility">Open AI</a></p>
   <p><a href="#features">Case Studies</a></p>
   <p><a href="#blog">Library</a></p>

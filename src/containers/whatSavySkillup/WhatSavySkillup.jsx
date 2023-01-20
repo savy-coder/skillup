@@ -4,7 +4,7 @@ import './whatsavyskillup.css';
 
 const WhatSavySkillup = () => {
   return (
-    <div className="skillup__whatsavyskillup section__margin" id="wsup">
+    <div className="skillup__whatsavyskillup section__margin" id="whatsavyskillup">
       <div className="skillup__whatsavyskillup-feature">
         <Feature title="What is SkillUp" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
       </div>
